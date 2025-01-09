@@ -1,8 +1,12 @@
-# React + Vite
+# Data-Fetching-on-Custom-Table-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React.js app for fetching JSON data from an API to a custom table. This app is made with only built-in libraries or without any external packages.
 
-Currently, two official plugins are available:
+The features of this app is given below:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- The table includes a search bar for finding specific rows by giving any information from any columns.
+- The table also has pagination feature for traversing through different pages of the table.
+
+Live Preview Link: 
+https://data-fetching-on-custom-table-react-app.vercel.app/
+
